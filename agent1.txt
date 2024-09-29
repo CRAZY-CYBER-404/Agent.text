@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/243.0.0.11.200;FBBV/238741825;FBDM{{density=1.75,width=1280,height=720}};FBLC/en_US;FBCR/TelkomSA;FBMF/Samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G9200;FBSV/11.5.0;FBCA/armeabi-v7a:armeabi;]
