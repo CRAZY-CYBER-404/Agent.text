@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/250.0.0.11.300;FBBV/178923156;FBDM{{density=1.50,width=1600,height=800}};FBLC/en_US;FBCR/AT&T;FBMF/Huawei;FBBD/huawei;FBPN/com.whatsapp;FBDV/SM-G935F;FBSV/11.7.2;FBCA/armeabi-v7a:armeabi;]
