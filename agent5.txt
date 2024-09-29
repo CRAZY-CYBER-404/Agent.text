@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/242.0.0.11.500;FBBV/167385932;FBDM{{density=1.80,width=1280,height=800}};FBLC/en_US;FBCR/Vodafone;FBMF/OnePlus;FBBD/oneplus;FBPN/com.instagram.android;FBDV/SM-N975F;FBSV/11.4.8;FBCA/armeabi-v7a:armeabi;]
