@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/255.0.0.11.100;FBBV/195837926;FBDM{{density=2.25,width=1920,height=1080}};FBLC/en_US;FBCR/Verizon;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.instagram.android;FBDV/SM-G950F;FBSV/11.6.0;FBCA/armeabi-v7a:armeabi;]
