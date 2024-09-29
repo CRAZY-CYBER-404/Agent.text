@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/244.0.0.11.400;FBBV/189347219;FBDM{{density=2.00,width=1440,height=720}};FBLC/en_US;FBCR/TMobile;FBMF/Oppo;FBBD/oppo;FBPN/com.facebook.katana;FBDV/SM-G960F;FBSV/11.8.0;FBCA/armeabi-v7a:armeabi;]
